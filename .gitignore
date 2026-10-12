@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+env/
+venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+*.h5
+checkpoints/
+logs/
+runs/
+*.log
+*.tmp
+sample_data/
